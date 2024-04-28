@@ -1,0 +1,10 @@
+# macos
+.DS_Store
+
+# nix
+result
+result/
+
+# haskell
+dist-newstyle/
+.stack-work/

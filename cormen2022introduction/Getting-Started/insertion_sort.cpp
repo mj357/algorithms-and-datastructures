@@ -15,6 +15,7 @@ void insertion_sort(std::vector<int> &vec) {
   }
 }
 
+// compile with `g++ --std=c++11`
 int main() {
   vector<int> something = {4, 1, 245, 2, 8, 5, 1, 2, 3, 4, 5, 6, 7,
                            8, 9, 0,   1, 2, 3, 4, 5, 6, 7, 8, 9};

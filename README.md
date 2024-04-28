@@ -6,7 +6,7 @@ This repository contains my notes and files that I used while working through:
 @book{cormen2022introduction,
   title={Introduction to algorithms},
   author={Cormen, Thomas H and Leiserson, Charles E and Rivest, Ronald L and Stein, Clifford},
-  year={2022},
+  year={2009}, <!-- I also use the 2022 version (4.th version) --> 
   publisher={MIT press}
 }
 
